@@ -2,7 +2,9 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<div align="center" style="font-size: 50px; font-weight: bolder;">SoonHeum Jin</div>
+
+<div align="center" style="font-size: 50px; font-weight: bold;">SoonHeum Jin</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
