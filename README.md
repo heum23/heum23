@@ -1,16 +1,14 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-<p align="center"><b style="font-size: 30px;">SoonHeum Jin</b></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SoonHeumJin&fontSize=40)
 
 <br>
 <br>
 
-<h2 align=center>🛠️ Stacks</h2>
+<h2 align=center>🛠️ Tech Stacks</h2>
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<br>
+
+<div align=center style="display: flex; gap: 30px; align-items: center;">
   <img src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=html5&logoColor=white" />
