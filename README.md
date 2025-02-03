@@ -25,19 +25,20 @@
         src="http://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=Instagram&link=https://instagram.com/heum._.chit__/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+   <a href="https://github.com/heum23">
+    <img 
+        src="http://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&link=https://github.com/heum23/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   <a href="https://www.notion.so/18faabc21f338017ae30ded220b685a4">
     <img 
-        src="http://img.shields.io/badge/-github-181717?style=for-the-badge&logo=Instagram&link=https://www.notion.so/18faabc21f338017ae30ded220b685a4"
+        src="http://img.shields.io/badge/-notion-000000?style=for-the-badge&logo=notion&link=https://www.notion.so/18faabc21f338017ae30ded220b685a4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-  <a href="https://github.com/heum23">
-    <img 
-        src="http://img.shields.io/badge/-github-181717?style=for-the-badge&logo=Instagram&link=https://github.com/heum23/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+ 
 
 </div>
-https://www.notion.so/18faabc21f338017ae30ded220b685a4
+
 
 <!--
 **heum23/heum23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
