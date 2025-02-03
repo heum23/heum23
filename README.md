@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<div style="display: flex; align-items: center;">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<div>SoonHeum Jin</div>
+<div align=center>SoonHeum Jin</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-</div>
+
 
 
 <!--
