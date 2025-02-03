@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SoonHeumJin&fontSize=40)
 
 <br>
-<br>
 
 <h2 align=center>🛠️ Tech Stacks</h2>
 
@@ -16,6 +15,23 @@
 </div>
 
 <h2 align=center>✨ About ME</h2>
+
+<br>
+
+<div align=center style="display: flex; gap: 30px; align-items: center;">
+<a href="https://instagram.com/heum._.chit__">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=Instagram&link=https://instagram.com/heum._.chit__/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  <a href="https://github.com/heum23">
+    <img 
+        src="http://img.shields.io/badge/-github-181717?style=for-the-badge&logo=Instagram&link=https://github.com/heum23/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+</div>
+
 
 <!--
 **heum23/heum23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
