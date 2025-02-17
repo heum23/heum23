@@ -14,6 +14,11 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/jquery-0769AD?&style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
+<div align=center style="display: flex; gap: 30px; align-items: center;">
+  <img src="https://img.shields.io/badge/nodejs-5FA04E?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+  
+</div>
 
 <h2 align=center>✨ About ME</h2>
 
