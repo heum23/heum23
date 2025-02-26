@@ -24,7 +24,7 @@
 
 <br>
 
-<div  align=center>클릭 시 이동</div>
+<div  align=center>click!</div>
 
 <br>
 
