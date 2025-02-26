@@ -24,7 +24,9 @@
 
 <br>
 
-<div>클릭 시 이동</div>
+<div  align=center>클릭 시 이동</div>
+
+<br>
 
 <div align=center style="display: flex; gap: 30px; align-items: center;">
 <a href="https://instagram.com/heum._.chit__">
