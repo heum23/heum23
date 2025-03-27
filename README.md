@@ -17,9 +17,16 @@
 <div align=center style="display: flex; gap: 30px; align-items: center;">
   <img src="https://img.shields.io/badge/nodejs-5FA04E?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=white" />
   
 </div>
+<div align=center style="display: flex; gap: 30px; align-items: center;">
+  <img src="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?&style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
 
+  
+</div>
 <h2 align=center>✨ About ME</h2>
 
 <br>
